@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/lfirebrand/bloc-address/issues"
   },
-  "homepage": "https://github.com/lfirebrand/bloc-address#readme"
+  "homepage": "https://github.com/lfirebrand/bloc-address#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
 }
